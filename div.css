@@ -1,0 +1,92 @@
+#ale
+{
+    height: 320px;
+    width: 300px;
+    background-color:white;
+    margin-right: 35px;
+    text-align: center;
+    transition: transform 0.9s;
+
+}
+#ale h3
+{
+    text-align: center;
+}
+#ale p{
+    text-align: center;
+}
+#alee
+{
+    height: 320px;
+    width: 300px;
+    background-color:white;
+    margin-right: 35px;
+    text-align: center;
+    transition: transform 0.8s;
+}
+#alee h3
+{
+    text-align: center;
+}
+#alee p{
+    text-align: center;
+}
+
+#aleee
+{
+    height: 320px;
+    width: 300px;
+    background-color: white;
+    text-align: center;
+    transition: transform 0.8s;
+    
+}
+#aleee h3
+{
+    text-align: center;
+
+}
+#aleee p{
+    text-align: center;
+}
+
+section
+{
+    height: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px 20px 20px 20px;
+    justify-content: center;
+    padding-top: 150px;
+    background-image: url(90.jpg);
+    background-size: cover;
+
+    
+}
+.btn
+{
+    cursor: pointer;
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+}
+.btn:hover{
+    background-color: palegreen;
+    
+}
+#ale:hover
+{
+    transform: scale(1.2);
+}
+#alee:hover
+{
+    transform: scale(1.2);
+}
+#aleee:hover
+{
+    transform: scale(1.2);
+}
+.btn:hover{
+    transform: scale(1.1);
+    transition: transform 0.8s;
+}
